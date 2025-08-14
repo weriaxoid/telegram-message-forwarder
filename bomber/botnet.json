@@ -1,0 +1,12 @@
+{
+    "bots": [
+        {
+            "id": "bot1", //id bot
+            "session": "bot1", //session name
+            "api_id": api_id, //take it on site my.telegram.org, create a app (delete comments before start the script)
+            "api_hash": "api_hash", //same
+            "phone": "phone_number", // write account password
+            "work": true //write is work account or no
+        }
+    ]
+}

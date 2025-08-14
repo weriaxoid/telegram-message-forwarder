@@ -1,0 +1,5 @@
+#write usernames for mailing(delete this and example)
+#example:
+@username1
+@username2
+#etc.
